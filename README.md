@@ -1,4 +1,6 @@
 # deeplab_gat
+Python 3.6
+
 ### References
 #### [1]Y. Lu, Y. Chen, D. Zhao, B. Liu, Z. Lai and J. Chen. CNN-G: convolutional neural network combined with graph for image segmentation with theoretical analysis, IEEE Transactions on Cognitive and Developmental Systems, 2020, DOI:10.1109/ TCDS. 2020. 2998497.
 #### [2]T. N. Kipf and  M. Welling.Semi-supervised classification with graph convolutional networks, International Conference on Learning Representations. 2017.
